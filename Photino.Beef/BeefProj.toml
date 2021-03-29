@@ -1,0 +1,9 @@
+FileVersion = 1
+
+[Project]
+Name = "Photino.Beef"
+TargetType = "BeefLib"
+StartupObject = "Photino.Beef.Program"
+
+[Configs.Debug.Win64]
+PostBuildCmds = ["CopyToDependents(\"$(ProjectDir)/dist/x64/*.dll\")"]

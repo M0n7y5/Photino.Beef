@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", "Photino.Beef" = "*"}
+
+[Project]
+Name = "Simple"
+StartupObject = "Simple.Program"

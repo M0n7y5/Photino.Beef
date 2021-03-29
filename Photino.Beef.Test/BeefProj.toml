@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "Photino.Beef.Test"
+TargetType = "BeefTest"
+StartupObject = "Photino.Beef.Test.Program"

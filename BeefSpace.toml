@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {"Photino.Beef" = {Path = "Photino.Beef"}, "Photino.Beef.Test" = {Path = "Photino.Beef.Test"}, Simple = {Path = "Examples/Simple"}, raylib-beef = "*"}
+
+[Workspace]
+StartupProject = "Simple"
